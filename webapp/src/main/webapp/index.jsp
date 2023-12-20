@@ -2,7 +2,8 @@
 <html> 
 
 <head> 
-	<title>HTML Calculator</title> 
+    
+	<title>SIVA HTML Calculator</title> 
 
 	<!-- For styling -->
 	<style> 
